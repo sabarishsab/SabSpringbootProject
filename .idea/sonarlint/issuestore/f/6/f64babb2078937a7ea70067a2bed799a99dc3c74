@@ -1,0 +1,22 @@
+
+ˆ
+java:S1192"mDefine a constant instead of duplicating this literal "--------------------------------------------" 3 times.(¬ó˜°ıÿÿÿÿ
+d
+java:S1192"IDefine a constant instead of duplicating this literal "sabarish" 3 times.(Ñ¶¥ÿşÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸­Æ	
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ó˜°ıÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(°üÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûúÌıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ó˜°ıÿÿÿÿ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ƒ¦²ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÿæ£ûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(õùÖ‹ıÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Óª›ãûÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¬ó˜°ıÿÿÿÿ
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(åâZ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(âÔ—¤

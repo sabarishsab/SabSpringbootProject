@@ -1,0 +1,36 @@
+
+W
+java:S1854#"ARemove this useless assignment to local variable "optionalvalue".(Õ…†½
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(’‚´„
+U
+java:S1612"?Replace this lambda with method reference 'Customer::getEmail'.(’‚´„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(…Ë«
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(øË›²úÿÿÿÿ
+Y
+java:S1612">Replace this lambda with method reference 'Customer::getName'.(øË›²úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Êíž‰
+V	java:S125"<This block of commented-out lines of code should be removed.(›Œî£øÿÿÿÿ
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Ï€ËÌøÿÿÿÿ
+`
+java:S1612"EReplace this lambda with method reference 'Customer::getPhoneNumber'.(Ï€ËÌøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷õÈÓùÿÿÿÿ
+f
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÖÎB
+S	java:S106"9Replace this use of System.out or System.err by a logger.( £Óºÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(¹—¿‰þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹—¿‰þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éŒñ¦ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š€ÖÝùÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Æ°¡ê
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Æ°¡ê
+H
+java:S1481#"2Remove this unused "optionalvalue" local variable.(Õ…†½
+@
+java:S3457$"%String contains no format specifiers.(¹—¿‰þÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¹—¿‰þÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(ýÅŽï

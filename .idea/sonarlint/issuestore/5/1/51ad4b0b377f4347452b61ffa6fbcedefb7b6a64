@@ -1,0 +1,20 @@
+
+?
+java:S1481"*Remove this unused "start" local variable.(ŸŒ²=
+>
+java:S1481"(Remove this unused "end" local variable.(œñ“»
+V	java:S125"<This block of commented-out lines of code should be removed.(Ñ¼Œåþÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(±œ¢—ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÀÄ˜ýÿÿÿÿ
+G
+java:S1602",Remove useless curly braces around statement(¯áû¬üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÀÄ˜ýÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ

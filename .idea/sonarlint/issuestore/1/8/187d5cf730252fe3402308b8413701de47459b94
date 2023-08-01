@@ -1,0 +1,14 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ÖÂƒ
+0
+java:S1220""Move this file to a named package.
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(£Àóšúÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÚÂ˜š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¥¤Äÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µÀı
+M	java:S106"9Replace this use of System.out or System.err by a logger.(àÒ±}
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸›‘ñ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
